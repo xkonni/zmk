@@ -42,6 +42,7 @@ module.exports = {
         "features/pointing",
         "features/displays",
         "features/lighting",
+        "features/layer-state-report",
         "features/studio",
       ],
     },
